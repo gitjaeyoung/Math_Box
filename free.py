@@ -1,3 +1,4 @@
+# 기본 프리
 def add(a, b):
    return a+b
 def subtract(a, b):
