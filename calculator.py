@@ -9,3 +9,6 @@ def multiply(a, b):
 
 def divide_new(a, b):
    return a/b
+
+det say_hell(:
+   print('hellow')
